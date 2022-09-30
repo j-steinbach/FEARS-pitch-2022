@@ -1,0 +1,27 @@
+- who here likes pizza?
+- why?
+- there are facts and opinions
+   - facts
+     - are either true or false, black or white
+     - can be verified
+     - machines love them!
+   - opinions
+     - can be everything, are beyond true and false, are different shades of grey
+     - can not be verified
+     - impossible to understand for machines
+- there is no universal definition for 'like' amongst humans. We understand it, but not exactly.
+   - my like is different from yours
+   - even in 'my' systerm there are differnt forms of 'like'
+     - I like my spouse. I like my dog.
+     - Do I like them equally? Is it the same 'liking'?
+- why is this a problem? (WIP)
+   - humans should be able to add emotions to facts and things
+- why do we need a universal definition? (WIP)
+   - to connect things and people with emotions and meaning (?)
+- why is this important? (WIP)
+   - there currently exists a network, a graph of facts
+     - machines understand it, it controlls our life
+   - how do we integrate the human component into it? how do we add opinions, emotions?
+     - how do we take back control? (is this even about control?)
+- describe this in pizza terms (WIP)
+   - please mail me your opinions about pizza and restaurants in Gent!
