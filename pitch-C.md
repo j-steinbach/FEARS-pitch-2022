@@ -14,6 +14,6 @@ But machines are also shallow. They don't feel and think, don't understand human
 
 How do we make this hidden information visible? How do we make it searchable? Is it possible that the secret of serendipity lies in opinions and emotions? That there exists a hidden 'human graph' above the world of facts (KG)? A graph full of opinions and emotions, not understandable by machines? A graph that connects all the seemingly unrelated facts in a logical way? And we just need to follow it to find 'serendipity'?
 
-There already exist approaches to add add annotations and metadata to existing KGs, for example property graphs and RDF*. But how do we describe opinions, how do we formalize emotions? Can RDF be used to construct a 'human graph'?
+There already exist approaches to add annotations and metadata to existing KGs, for example property graphs and RDF*. But how do we describe opinions, how do we formalize emotions? Can RDF be used to construct a 'human graph'?
 
 To answer these questions, I will investigate how human opinions, emotions and complexities can be captured in KGs using RDF* and/or property graphs.
